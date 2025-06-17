@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GoogleButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/google_button_background</item>
+        <item name="android:drawableStart">@drawable/ic_logo_google</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+</resources>
