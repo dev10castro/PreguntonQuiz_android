@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1026236643854:android:f0c9dae91a881253ff5a5f",
+        "mobilesdk_app_id": "1:1026236643854:android:9fa0b76cebb03d98ff5a5f",
         "android_client_info": {
           "package_name": "com.example.preguntonquiz"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1026236643854-9lf3bbchnjnjt8aunonddjvvg8vpnqhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preguntonquiz",
+            "certificate_hash": "324ff7bc15fc43f14a1e096ae235acc2e11f32e3"
+          }
+        },
         {
           "client_id": "1026236643854-t4go3v9g7hb68sdn1f6030ipjrtsrh2q.apps.googleusercontent.com",
           "client_type": 3

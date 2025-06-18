@@ -12,33 +12,36 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PreguntonQuiz"
         tools:targetApi="31">
+
+
+
+        <!-- Actividades -->
         <activity
             android:name=".views.ProfileFragment"
-            android:exported="false" />
-        <activity
-            android:name=".RankingFragment"
-            android:exported="false" />
-        <activity
-            android:name=".views.HomeFragment"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+
         <activity
             android:name=".views.HomeActivity"
             android:exported="false" />
+
         <activity
             android:name=".views.AnswersScreen"
             android:exported="false" />
+
         <activity
             android:name=".views.NickNameScreen"
             android:exported="false" />
+
         <activity
             android:name=".views.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
