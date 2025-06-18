@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026236643854",
+    "firebase_url": "https://preguntonquiz-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "preguntonquiz",
+    "storage_bucket": "preguntonquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026236643854:android:f0c9dae91a881253ff5a5f",
+        "android_client_info": {
+          "package_name": "com.example.preguntonquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026236643854-t4go3v9g7hb68sdn1f6030ipjrtsrh2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXOAGgYtss5m0TIXYhJS7oeUObYlc164"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026236643854-t4go3v9g7hb68sdn1f6030ipjrtsrh2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
